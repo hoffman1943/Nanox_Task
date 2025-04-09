@@ -11,7 +11,6 @@ import io.cucumber.java.en.When;
 import java.time.Duration;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import pages.Categoriespage;
-import pages.PurchasePage;
 
 
 public class CategoriesSteps {
